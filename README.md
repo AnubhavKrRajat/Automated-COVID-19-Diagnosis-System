@@ -8,7 +8,7 @@ The proposed models will be trained using the dataset containing the C-XR and Co
 2. Download the Data folder from https://drive.google.com/drive/folders/1_5U6Qd7rhMYDo_HX_X21SIa2_d_XEH1t?usp=drive_link
 3. Copy the downloaded Data folder inside cloned repo.
 4. Download the Models folder from https://drive.google.com/drive/folders/1hOp_rMnxuFYIk5P4zVq_UYGfuDeCd77N?usp=sharing
-5. Similarly copy the downloaded Data folder inside cloned repo
+5. Similarly copy the downloaded Models folder inside cloned repo
 6. [optional] If you want to re-configure the models or re-trained the models, run .ipynb files present inside the Jupyter notebooks folder
 7. To run the project run python app.py command
 8. Open the link: http://127.0.0.1:5000/  in your browser to access the web application.
